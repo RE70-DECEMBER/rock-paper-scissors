@@ -1,7 +1,7 @@
 import random
 import os
 
-choices_list = ['rock','paper','scissors']
+choices_list = ('rock','paper','scissors')
 
 player_score = 0
 computer_score = 0
